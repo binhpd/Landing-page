@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/scl/fi/dqyqxcdrw9lkuo7xxokqg/logo512.png?rlkey=td3vh0tmpemto3accp7mvoxpn</string>
+					<string>https://dl.dropboxusercontent.com/scl/fi/vv1pef86y1adagqucud7d/pctt.ipa?rlkey=iqqlv8gav3equcnrktw2f7ohk</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.vtnet.pctt</string>
 				<key>bundle-version</key>
-				<string>1.0.12</string>
+				<string>1.0.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
